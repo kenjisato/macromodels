@@ -1,0 +1,12 @@
+Package: macromodels
+Title: Supplementary Materials for Introductory Graduate Macroeconomics
+Version: 0.0.0.9000
+Authors@R: person("Kenji", "Sato", email = "kenji@kenjisato.jp", role = c("aut", "cre"))
+Description: This package is designed to help you learn graduate-level macroeconomics.
+Depends: R (>= 3.3.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
