@@ -10,10 +10,10 @@
 #'   [www.ggdc.net/pwt](http://www.ggdc.net/pwt)
 #'
 #' Textbooks
-#' * Jones, Charles I. and Dietrich Vollrath (2013) _Introduction to
-#'   Economic Growth_ 3e. W. W. Norton.
 #' * Romer, David (2011) _Advanced
 #'   Macroeconomics_ 4e. McGraw-Hill.
+#' * Jones, Charles I. and Dietrich Vollrath (2013) _Introduction to
+#'   Economic Growth_ 3e. W. W. Norton.
 #'
 #' Journal articles
 #' * Mankiw, N. Gregory, David Romer and David N. Weil (1992)

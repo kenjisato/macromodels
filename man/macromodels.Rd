@@ -20,10 +20,10 @@ Economic Review}, 105(10), 3150-3182, available for download at
 
 Textbooks
 \itemize{
-\item Jones, Charles I. and Dietrich Vollrath (2013) \emph{Introduction to
-Economic Growth} 3e. W. W. Norton.
 \item Romer, David (2011) \emph{Advanced
 Macroeconomics} 4e. McGraw-Hill.
+\item Jones, Charles I. and Dietrich Vollrath (2013) \emph{Introduction to
+Economic Growth} 3e. W. W. Norton.
 }
 
 Journal articles
